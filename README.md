@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @ndiawar
-- 👀 I’m interested in programmation
-- 🌱 I’m currently learning dans une privée programmation DEV
-- 💞️ I’m looking to collaborate on cette plateforme, pour beaucoup de maîtrise en DEV et gagner de l'expérience
-- 📫 How to reach me dndiawar3@gmail.com
+# Bienvenue sur mon profil GitHub 👋
 
-<!---
-ndiawar/ndiawar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Je suis Ndiawar Diop, un ingénieur logiciel passionné par la programmation. Actuellement en formation privée en développement, je cherche à collaborer sur cette plateforme pour approfondir mes compétences en développement et acquérir de l'expérience.
+
+## Mes Intérêts
+
+- 👨‍💻 Développement logiciel
+- 🌐 Technologies Web
+- 🚀 Open Source
+
+## Me Contacter
+
+Vous pouvez me contacter par e-mail : dndiawar20@gmail.com
+
+N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration ou suggestion.
