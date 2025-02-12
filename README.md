@@ -1,3 +1,15 @@
+
+# 👋 Hello, I'm Ndiawar Diop  
+🚀 **Full-Stack Developer | IoT Technician | Tech Enthusiast**  
+💡 Passionate about technology, innovation, and automation.
+
+## 💻 Tech Stack  
+🔹 **Front-End** : ReactJs, AngularJs, VueJs  
+🔹 **Back-End** : Laravel, NodeJs, Flask, Django, PHP  
+🔹 **Mobile** : React-Native  
+🔹 **Design** : Figma  
+🔹 **Databases** : MySQL, MongoDB, PostgreSQL  
+🔹 **IoT & Automation**  
 *
 *
 *
@@ -12,20 +24,6 @@
 *
 *
 *
-*
-*                                                      
-*
-# 👋 Hello, I'm Ndiawar Diop  
-🚀 **Full-Stack Developer | IoT Technician | Tech Enthusiast**  
-💡 Passionate about technology, innovation, and automation.
-
-## 💻 Tech Stack  
-🔹 **Front-End** : ReactJs, AngularJs, VueJs  
-🔹 **Back-End** : Laravel, NodeJs, Flask, Django, PHP  
-🔹 **Mobile** : React-Native  
-🔹 **Design** : Figma  
-🔹 **Databases** : MySQL, MongoDB, PostgreSQL  
-🔹 **IoT & Automation**  
 
 ## 📈 GitHub Stats  
 ![Ndiawar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ndiawar&show_icons=true&theme=radical)  
